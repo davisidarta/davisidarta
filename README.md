@@ -5,7 +5,7 @@ I'm a joint MD/PhD student, meaning I came from a medical background and learned
 I'm passionate about studying each and every organ and disease for the betterment of humanity. My life goal is to help curing the maximum diseases possible during my lifespan.
 
 - I've developed a new diffusion map model for dimensionality reduction and graph-layout with UMAP, [dbMAP](https://github.com/davisidarta/dbMAP)
-- This model was useful while analyzing a [meta-analysis of human lung scRNAseq data to provide new insights into COVID-19 pathogenesis](https://doi.org/10.1038/s41598-020-76488-2)
+- This model was useful for analyzing a [meta-analysis of human lung scRNAseq data to provide new insights into COVID-19 pathogenesis](https://doi.org/10.1038/s41598-020-76488-2)
 - Drawn towards topology, I've developed [TopOMetry](https://github.com/davisidarta/topometry), a high-level topological data analysis framework for big data interpretation and visualization. 
 - I lead a small bioinformatics team at the Laboratory of Cell Signaling, where I attend as a PhD candidate. I've also held a workshop on single-cell data analysis at our lab, currently [available](https://github.com/OCRC/TreinamentoSingleCell) in Brazilian Portuguese. 
 
