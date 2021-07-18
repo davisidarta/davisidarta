@@ -4,7 +4,7 @@ I develop tools to understand and interpret large sets of data, such as those ge
 I'm a joint MD/PhD student, meaning I came from a medical background and learned programming and machine-learning from the ground up. 
 
 -  I've developed a new diffusion map model for dimensionality reduction and graph-layout with UMAP, [dbMAP](https://github.com/davisidarta/dbMAP)
--  This model was useful for analyzing a [meta-analysis of human lung scRNAseq data to provide new insights into COVID-19 pathogenesis](https://doi.org/10.1038/s41598-020-76488-2)
+-  This model was useful for analyzing a [meta-analysis of human lung scRNAseq data to provide new insights into COVID-19 pathogenesis](https://doi.org/10.1038/s41598-020-76488-2). The R code used is also available in a [public repository](https://github.com/davisidarta/humanlung).
 -  Drawn towards topology, I've developed [TopOMetry](https://github.com/davisidarta/topometry), a high-level topological data analysis framework for big data interpretation and visualization. 
 -  I lead a small bioinformatics team at the Laboratory of Cell Signaling, where I attend as a PhD candidate, under supervision of [Prof. Licio Velloso](https://scholar.google.com/citations?user=DKuRdBsAAAAJ&hl=pt-BR). I've also held a workshop on single-cell data analysis at our lab, currently [available](https://github.com/OCRC/TreinamentoSingleCell) in Brazilian Portuguese. 
 
