@@ -8,7 +8,7 @@ I'm a joint MD/PhD candidate, meaning I came from a medical background and learn
 -  Drawn towards topology, I've developed [TopOMetry](https://github.com/davisidarta/topometry), a high-level topological data analysis framework for big data interpretation and visualization. 
 -  I lead a small bioinformatics team at the Laboratory of Cell Signaling, where I attend as a PhD candidate, under supervision of [Prof. Licio Velloso](https://scholar.google.com/citations?user=DKuRdBsAAAAJ&hl=pt-BR). I've also held a workshop on single-cell data analysis at our lab, currently [available](https://github.com/OCRC/TreinamentoSingleCell) in Brazilian Portuguese. 
 
-Currently, I'm devoting most of my time at the hospital pediatrics rotation and to the preparation of the TopOMetry paper.
+Currently, I'm devoting most of my time to seeing patients at the hospital and to the preparation of the TopOMetry paper.
 
 I'm always open to interesting conversations and enjoy getting involved in many projects. Feel free to reach me by [email](mailto:davisidarta@fcm.unicamp.br). 
 
