@@ -14,6 +14,8 @@ I'm always open to interesting conversations and enjoy getting involved in many 
 
 
 I tweet about medicine, computational biology, machine-learning, and sometimes about my personal life.
+
+
 ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/DaviSidarta.svg?label=Follow%20%40davisidarta&style=social)
 
 
